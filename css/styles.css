@@ -1,0 +1,24 @@
+body{
+  background-color: blue;
+}
+h1, h3{
+  font-family:"Oswald", cursive;
+  color:pink
+}
+
+p{
+  font-family:"Oswald", cursive;
+  color:pink
+}
+
+p { color:pink; }
+
+.sidebar {
+  color:yellow;
+  margin:100px;
+}
+
+#demo {
+-webkit-box-shadow: 31px 12px 42px 11px #000000;
+box-shadow: 31px 12px 42px 11px #000000;
+}
