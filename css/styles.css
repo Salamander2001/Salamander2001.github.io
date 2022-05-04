@@ -5,5 +5,23 @@
   background-position: center;
   background-size: cover;
   width: 100%;
-  height:100vh; 
+  height:100vh;
+}
+
+#Bruh {
+  background-image: url('../image/Untitled-13.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height:100vh;
+}
+
+#Reviewlol {
+  background-image: url('../image/salazar-salvador-photography-3.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height:100vh;
 }
