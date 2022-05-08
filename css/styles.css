@@ -1,6 +1,6 @@
 
 #Itried {
-  background-image: url('../image/Untitled-18.jpg');
+  background-image: url('../image/No.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -48,13 +48,25 @@ border: 2px solid rgba(255,255,255,0.1);
 }
 
 .col-5 {
-width:100px
+width:75px
 height:200px
 border-radius: 15px;
 overflow: hidden;
 color: #fff;
-padding: 5%;
+padding: 4%;
 background: rgba(255,255,255,0.2);
-background-filter: blur(30px);
+background-filter: blur(8px);
+border: 2px solid rgba(255,255,255,0.1);
+}
+
+.col-md-6 {
+width:75px
+height:100px
+border-radius: 15px;
+overflow: hidden;
+color: #fff;
+padding: 4%;
+background: rgba(255,255,255,0.2);
+background-filter: blur(8px);
 border: 2px solid rgba(255,255,255,0.1);
 }
