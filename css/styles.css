@@ -9,7 +9,7 @@
 }
 
 #Bruh {
-  background-image: url('../image/Size.jpg');
+  background-image: url('../image/Group-12.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -18,7 +18,7 @@
 }
 
 #Reviewlol {
-  background-image: url('../image/salazar-salvador-photography-3.jpg');
+  background-image: url('../image/Group-11.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -27,6 +27,15 @@
 }
 
 #Location {
+  background-image: url('../image/Group 10.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height:100vh;
+}
+
+#index2 {
   background-image: url('../image/Group 10.jpg');
   background-repeat: no-repeat;
   background-position: center;
