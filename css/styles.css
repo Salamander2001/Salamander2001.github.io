@@ -49,7 +49,7 @@ border: 2px solid rgba(255,255,255,0.1);
 
 .col-5 {
 width:75px
-height:200px
+height:50px
 border-radius: 15px;
 overflow: hidden;
 color: #fff;
@@ -69,4 +69,26 @@ padding: 4%;
 background: rgba(255,255,255,0.2);
 background-filter: blur(8px);
 border: 2px solid rgba(255,255,255,0.1);
+}
+
+.col-6-border {
+  background-image: url('../image/grayscale.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 50%;
+  height:20vh;
+
+}
+
+@font-face {
+  font-family:'MonteCarlo';
+  src: url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+
+
+}
+
+h1 {
+  font-family: 'MonteCarlo', sans-serif;
+
 }
